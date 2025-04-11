@@ -118,9 +118,3 @@ Retorna el cognom que ocupa una posició concreta al rànquing.
 ## 📜 Llicència
 
 Aquest projecte és lliure i gratuït per ús personal, educatiu o professional. Però recorda que les dades són propietat de **l’Idescat**.
-
----
-
-## ✨ Fet amb amor per gent que estima els cognoms
-
-Vols col·laborar o millorar-la? Obre un PR, fork o envia’m un missatge!
